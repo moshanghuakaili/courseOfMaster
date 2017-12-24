@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\visual studio 2015\projects\cv_01\main.cpp(133): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\cv_01\main.cpp(138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\cv_01\main.cpp(231): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+e:\visual studio 2015\projects\cv_01\main.cpp(232): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+e:\visual studio 2015\projects\cv_01\main.cpp(233): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+e:\visual studio 2015\projects\cv_01\main.cpp(298): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CV_01.vcxproj -> E:\visual studio 2015\Projects\CV_01\x64\Debug\CV_01.exe
+  CV_01.vcxproj -> E:\visual studio 2015\Projects\CV_01\x64\Debug\CV_01.pdb (Full PDB)
