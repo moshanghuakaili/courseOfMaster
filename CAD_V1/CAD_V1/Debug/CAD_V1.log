@@ -1,5 +1,0 @@
-﻿  CAD_V1View.cpp
-e:\visual studio 2015\projects\cad_v1\cad_v1\cad_v1view.cpp(291): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
-e:\visual studio 2015\projects\cad_v1\cad_v1\cad_v1view.cpp(292): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
-  CAD_V1.vcxproj -> E:\visual studio 2015\Projects\CAD_V1\Debug\CAD_V1.exe
-  CAD_V1.vcxproj -> E:\visual studio 2015\Projects\CAD_V1\Debug\CAD_V1.pdb (Partial PDB)
